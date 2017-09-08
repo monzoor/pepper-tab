@@ -1,0 +1,21 @@
+{
+  "name": "grunt-boilerplate-with-sass",
+  "description": "Ready-made, simple Grunt project boilerplate with `sassdown`, `grunt-contrib-clean` and `grunt-contrib-compass` included and set up.",
+  "main": "Gruntfile.js",
+  "devDependencies": {
+    "autoprefixer": "^7.1.2",
+    "breakpoint-sass": "^2.7.1",
+    "grunt": "~0.4.1",
+    "grunt-contrib-clean": "^0.5.0",
+    "grunt-contrib-compass": "^0.6.0",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-watch": "^0.5.3",
+    "grunt-express": "^1.4.1",
+    "grunt-sass-globbing": "^1.5.1",
+    "grunt-task-loader": "^0.6.0",
+    "jeet": "^7.1.0",
+    "sassdown": "0.1.4"
+  },
+  "dependencies": {}
+}
